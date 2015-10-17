@@ -6,4 +6,6 @@ The weather lets you know the weather through your current location. It lets you
 
 Also, you can see the probability of humidity and rain.
 
-# The Weather is an Android Application that uses some features on Android like Network Connection and GPS.
+# The Weather is an Android Application 
+
+That uses some features on Android like Network Connection and GPS.
