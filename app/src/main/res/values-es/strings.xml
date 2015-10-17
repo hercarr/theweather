@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El Clima</string>
+    <string name="error_title">Oops!</string>
+    <string name="error_message">Se presento un error, por favor intentalo nuevamente, verifica que la conexión a internet esta disponible.</string>
+    <string name="error_ok_button_text">Aceptar</string>
+    <string name="network_unavailable_message">¡La conexión a internet no esta dispobible!</string>
+    <string name="open_intertet_settings">¿Quieres abrir la configuración de internet o salir de la aplicación?</string>
+    <string name="open">Abrir</string>
+    <string name="close">Salir</string>
+    <string name="no_daily_forecast_data">No se encontrarón datos para mostrar.</string>
+    <string name="getting_current_city">Obteniendo ciudad actual...</string>
+    <string name="humidity">HUMEDAD</string>
+    <string name="rain">LLOVERÁ?</string>
+    <string name="getting_current_weather">Obteniendo el clima actual...</string>
+    <string name="hourly">PROX 24 HORAS</string>
+    <string name="daily">PROX 7 DÍAS</string>
+    <string name="daily_summary" formatted="false">El %s la temperatura máxima será de %s y el clima será \"%s\".</string>
+    <string name="today">hoy</string>
+    <string name="weather_of_the_week">Próximos 7 días</string>
+    <string name="next_24_hours">Próximas 24 horas</string>
+    <string name="today_msg">A las #TIME estaremos a #TEMP y #SUMMARY</string>
+    <string name="time_msg">A las #TIME estaremos a </string>
+    <string name="GPSAlertDialogTitle">El GPS esta configurado.</string>
+    <string name="GPSAlertDialogMessage">El GPS no esta habilitado. ¿Quieres ir al menu de configuración para activarlo?</string>
+    <string name="settings">Configuración</string>
+    <string name="cancel">Cancelar</string>
+    <string name="address_not_available">Dirrección no disponible</string>
+    <string name="city_not_available">Ciudad no disponible</string>
+    <string name="country_not_available">País no disponible</string>
+    <string name="postal_code_not_available">Codigo postal no disponible</string>
+</resources>
